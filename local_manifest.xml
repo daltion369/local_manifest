@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest> 
+  
+<!-- remotes -->
+<remote name="daltion" fetch="https://github.com/daltion369" />
+
+<!-- trees -->
+<project path="device/xiaomi/vayu" name="android_device_xiaomi_vayu" revision="twelve-L" remote="daltion" />	
+<project path="kernel/xiaomi/vayu" name="android_kernel_xiaomi_vayu" revision="twelve-L" remote="daltion" />	
+<project path="vendor/xiaomi/vayu" name="android_vendor_xiaomi_vayu" revision="twelve-L" remote="daltion" />	
+
+</manifest>
